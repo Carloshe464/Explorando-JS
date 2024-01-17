@@ -1,0 +1,6 @@
+Atribuições por referencias são aquelas constantes/variaveis que recebem o endereço do conteudo.
+
+Valores primitivos e basicos da linguagem, e feito uma copia do valor para a varaivel. 
+a qual ficam com valores indepenentes.
+
+Já na manipulação de objetos as atribuições são feitas a partir de referencias.
